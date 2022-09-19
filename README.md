@@ -1,7 +1,3 @@
-<div id="image" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-</div>
-
 <div id="text" align="center">
   <h1>
     Hi
@@ -15,3 +11,6 @@ Python, Django, Django Rest, PostgreSQL, SQLite, MySQL, Linux, Git, Docker, Ngin
 
 ### :mailbox: Contact me:
 Linkedin, Whatsapp, Telegram
+<div id="image" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+</div>
