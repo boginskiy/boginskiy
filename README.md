@@ -10,8 +10,14 @@
   <a href="https://www.linkedin.com/in/boginskii/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsApp&logoColor=white" alt="WhatsApp Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+
+  <a href="https://web.whatsapp.com/">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsApp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+
+  <a href="https://web.telegram.org/k/">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 <div align="center">
