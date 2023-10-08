@@ -7,7 +7,7 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tools: 
-Python, Django, Django Rest, PostgreSQL, SQLite, MySQL, Linux, Git, Docker, Nginx, Jira
+Python, Django, FastApi, Flask, PostgreSQL, Linux, Git, Docker, Nginx
 
 ### :mailbox: Contact me:
 Linkedin, Whatsapp, Telegram
